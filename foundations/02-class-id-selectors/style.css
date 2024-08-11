@@ -1,0 +1,20 @@
+.lightPink {
+  background-color: rgb(230, 162, 172);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+  font-size: 18px;
+}
+
+#numberTwo {
+  color: blue;
+  font-size: 36px;
+}
+
+.lightPink.bigFont {
+  font-size: 24px;
+}
+
+#numberFour {
+  background-color: rgb(158, 240, 158);
+  font-size: 24px;
+  font-weight: bold;
+}
